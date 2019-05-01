@@ -6,7 +6,7 @@ This is my implementation of the [U-Net](https://arxiv.org/pdf/1505.04597.pdf) i
 
 ### Data
 
-The original dataset is from [isbi challenge](http://brainiac2.mit.edu/isbi_challenge/), and I've downloaded it and done the pre-processing. You can find it in folder .data/.
+The original dataset is from [EM segmentation challenge](http://brainiac2.mit.edu/isbi_challenge/), and I've downloaded it and done the pre-processing. You can find it in folder .data/.
 
 ![images/input.png](images/input.png)
 
