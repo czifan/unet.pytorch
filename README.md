@@ -1,4 +1,4 @@
-# pytorch-UNet
+# unet.pytorch
 
 This is my implementation of the [U-Net](https://arxiv.org/pdf/1505.04597.pdf) in Pytorch for [EM segmentation challenge](http://brainiac2.mit.edu/isbi_challenge/).
 
